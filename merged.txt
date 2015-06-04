@@ -17,6 +17,7 @@ Abbas, Eduardo
 Aaronson, Norman
 Aabel, Andreas
 Abbas, Cassin
+Abad, Jóse Héctor
 Abbar, Saber
 Abbas, Hector
 Aasie, C.S.
@@ -24,7 +25,6 @@ Aadli, Argo
 Abad, Brais
 Aaker, Lee
 Abbay, Peter
-Aav, Tõnu
 Abart, Christian
 Aavajoki, Kaarlo
 Abadie, Fernando
@@ -41,6 +41,7 @@ Aaron, Nicholas
 Aabel, Hauk (I)
 Abadie, William
 Abbas, Osama
+Abad, Joaquín
 Aadhi (I)
 Aaron, Mark (II)
 Abbati, Roberto
@@ -49,14 +50,12 @@ Abatemarco, Tony
 A.V., Subba Rao
 Aaron, Jack
 Aakash (I)
-Abad, Darío
 50 Cent
 Aanensen, Peter
 Abadia, Lysander
 Abbasov, Gyunduz
 Abalos, Jason
 $hort, Too
-Abad, Joaquín
 40 Glocc
 Aadi (II)
 Aames, Willie
@@ -73,7 +72,6 @@ Abattucci, Serge
 Abbas, Master
 Aaltonen, Kosti
 Abbey, Francis
-Abadía, Julio
 Abaydulov, Gali
 Abad, Kenshin J.P.
 Abashin, Vladislav
@@ -101,7 +99,6 @@ Aard, Frank J.
 Abadi, Ebrahim
 Abashidze, Dodo
 Aalderks, Adam
-Abad, Jóse Héctor
 Aalto, Rostislav
 Abbate, Joe
 Abaya, Marc
@@ -111,13 +108,16 @@ Aavik, Evald
 Abadeza, Apolonio
 Abbas, Abdullah
 Abalos, Jing
+Aav, Tõnu
 A.M., Tyler
 Abazi, Refet
 Abaza, Rushdy
 Abay, Korhan
 A.S., Alwi
+Abad, Darío
 Abaza, Ahmed
 Aasen, John
+Abadía, Julio
 Abbasi, Saeed
 Abbas (II)
 Aames, Marlene
@@ -151,7 +151,6 @@ Abdullayeva, Gulsara
 Abdel Aziz, Yasmin
 Abe, Tomori
 Aarti (I)
-Aaröe, Ami
 Abarca-Cantin, Paulina
 Abe, Maria
 Abe, Natsumi
@@ -174,6 +173,7 @@ A., Stephanie
 Abboud, Carol
 Abdel Aziz, Dalal
 Abdala, Delphine
+Aaröe, Ami
 Abaitua, Susana
 Aardsma, Amanda
 Abdou, Ragaa
@@ -195,7 +195,6 @@ Abeille, Marion
 Abecassis, Raymonde
 Abe, Satoko
 Abbott, Ursula
-Abecassis, Yaël
 Abadi, Maria
 Aadland, Beverly
 Abdulrahim, Fatima
@@ -212,5 +211,6 @@ Abbatiello, Gabriella
 Aasia
 Aarthi
 Aaram, Angel
+Abecassis, Yaël
 Aarons, Bonnie
 Abe, Machi

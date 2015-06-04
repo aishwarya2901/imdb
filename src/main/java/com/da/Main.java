@@ -4,8 +4,10 @@ import com.da.util.*;
 import org.javatuples.Pair;
 
 import java.io.*;
+import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
+import java.util.concurrent.atomic.AtomicLong;
 
 import static java.util.stream.Collectors.toList;
 
@@ -14,16 +16,22 @@ public class Main {
     public static void main(String[] args) throws Exception {
 
         Main m = new Main();
+        List<ActPerformer> all = new ArrayList<>(20000);
 
         try (BufferedWriter writer = new BufferedWriter(new FileWriter(new File("merged.txt")))) {
-            List<ActPerformer> actresses = m.process(getFile("actor_movies.txt"), false);
-            System.out.println("Total number of actors :" + actresses.size());
-            int count = write(writer, actresses);
-            System.out.println("Total number of actors (>=5) :" + count);
-            System.out.println("Total number of actress " + actresses.size());
-            List<ActPerformer> actors = m.process(getFile("actress_movies.txt"), true);
-            int count2 = write(writer, actors);
-            System.out.println("Total number of actors (>=5) :" + count2);
+            final AtomicLong id = new AtomicLong(0);
+            List<ActPerformer> actors = m.process(getFile("actor_movies.txt"), false, id);
+            System.out.println("Total number of actors :" + actors.size());
+
+            List<ActPerformer> actresses = m.process(getFile("actress_movies.txt"), true, id);
+            System.out.println("Total number of actresses :" + actresses.size());
+
+            all.addAll(actors);
+            actresses.addAll(actresses);
+        }
+
+        for(ActPerformer act : all){
+            
         }
     }
 
@@ -44,7 +52,7 @@ public class Main {
     }
 
 
-    private List<ActPerformer> process(File file, boolean isMale) throws Exception {
+    private List<ActPerformer> process(File file, boolean isMale, AtomicLong id) throws Exception {
         final HashMap<String, ActPerformer> actors = new HashMap<>();
         try (BufferedReader r = new BufferedReader(new FileReader(file))) {
             String line = null;
@@ -52,8 +60,8 @@ public class Main {
                 Pair<String, List<Movie>> ans = Extractor.extractFromAll(line);
                 String name = ans.getValue0();
                 actors.putIfAbsent(name, isMale
-                        ? new Actor(name)
-                        : new Actress(name));
+                        ? new Actor(name, id.incrementAndGet())
+                        : new Actress(name, id. incrementAndGet()));
                 ActPerformer actPerformer = actors.get(name);
                 if (ans.getValue1() != null)
                     actPerformer.addActedIn(ans.getValue1());

@@ -2,7 +2,12 @@ package com.da.util;
 
 
 public class Actor extends ActPerformer{
-    public Actor(String name) {
-        super(name);
+    final long id;
+    public Actor(String name, long id) {
+        super(name);this.id = id;
+    }
+
+    public long getId() {
+        return id;
     }
 }

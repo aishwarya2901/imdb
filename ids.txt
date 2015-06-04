@@ -1,0 +1,216 @@
+4         -> $hort, Too
+28         -> 'Casper' Brown, Jesse
+81         -> 'Koolout' Starks, Johnny
+95         -> 'Monkey' Stevens, Neal
+281         -> 11:11, Angel
+323         -> 2 Dope, Shaggy
+324         -> 2 Live Crew
+439         -> 40 Glocc
+483         -> 50 Cent
+504         -> 65, Buck
+661         -> A., Randy
+670         -> A., Sergey
+2547         -> A., Stephanie
+726         -> A.M., Tyler
+736         -> A.S., Alwi
+743         -> A.V., Subba Rao
+2107         -> ABBA
+754         -> Aabel, Andreas
+755         -> Aabel, Hauk (I)
+756         -> Aabel, Per (I)
+792         -> Aadhi (I)
+795         -> Aadi (II)
+2579         -> Aadland, Beverly
+803         -> Aadli, Argo
+850         -> Aakash (I)
+853         -> Aakash (IV)
+864         -> Aaker, Lee
+2621         -> Aakruti
+881         -> Aalam, Steve
+2639         -> Aalda, Mariann
+896         -> Aalderks, Adam
+2647         -> Aaliya
+937         -> Aalto, Rostislav
+946         -> Aaltoila, Heikki
+2685         -> Aaltonen, Elin
+972         -> Aaltonen, Kosti
+2693         -> Aaltonen, Minna (I)
+983         -> Aaltonen, Remu
+984         -> Aaltonen, Risto
+991         -> Aaltonen, Veikko
+2706         -> Aamani
+2708         -> Aames, Angela
+2709         -> Aames, Marlene
+1016         -> Aames, Willie
+1023         -> Aamodt, Thor Michael
+2717         -> Aamold, Mathaleen
+2725         -> Aandahl, Serene
+1040         -> Aanensen, Peter
+2736         -> Aaram, Angel
+1068         -> Aard, Frank J.
+2743         -> Aardsma, Amanda
+1146         -> Aaron II, Tony
+1147         -> Aaron, Aash
+2783         -> Aaron, Caroline
+1201         -> Aaron, Jack
+1224         -> Aaron, Lance
+1230         -> Aaron, Mark (II)
+1244         -> Aaron, Nicholas
+1249         -> Aaron, Quinton
+1261         -> Aaron, Steve (I)
+1262         -> Aaron, Steve (III)
+2817         -> Aaron, Wendy
+1277         -> Aaron-Sipple, Steve
+1285         -> Aarons, Adam (I)
+1286         -> Aarons, Allan
+2818         -> Aarons, Bonnie
+1317         -> Aaronson, Norman
+1320         -> Aaronson, Scott
+2842         -> Aarthi
+2843         -> Aarti (I)
+1385         -> Aarya
+2855         -> Aaröe, Ami
+1393         -> Aas, Arne
+1436         -> Aasen, John
+2867         -> Aaseng, Mikhaila
+2876         -> Aasia
+1460         -> Aasie, C.S.
+1467         -> Aasland, Derek
+1489         -> Aav, Tõnu
+1493         -> Aavajoki, Kaarlo
+1494         -> Aavani, Siroos
+1496         -> Aavik, Evald
+2905         -> Aba, Chantal
+1547         -> Abad, Artemio
+1549         -> Abad, Brais
+2925         -> Abad, Carmencita
+1559         -> Abad, Darío
+1583         -> Abad, Joaquín
+1596         -> Abad, Jóse Héctor
+2950         -> Abad, Kaye
+1597         -> Abad, Kenshin J.P.
+1612         -> Abad, Rey
+2973         -> Abad, Sarah Jane
+2983         -> Abad-Santos, Ana
+2987         -> Abadacha, Olga
+1638         -> Abadal, Ignasi
+1650         -> Abadeza, Apolonio
+1653         -> Abadeza, Rene
+1656         -> Abadi, Ebrahim
+2998         -> Abadi, Maria
+1668         -> Abadia, Lysander
+1677         -> Abadie, Fernando
+1688         -> Abadie, William
+1716         -> Abadía, Julio
+3029         -> Abaitua, Susana
+1799         -> Abalos, Jason
+1800         -> Abalos, Jing
+1860         -> Abar, Saber
+3104         -> Abarca-Cantin, Paulina
+3114         -> Abarrca, Eileen
+1910         -> Abart, Boleslaw
+1911         -> Abart, Christian
+3130         -> Abascal, Margot
+3133         -> Abascal, Silvia (II)
+1932         -> Abashidze, Dodo
+1933         -> Abashidze, Gocha
+3136         -> Abashidze, Leila
+1934         -> Abashidze, Levan
+1939         -> Abashin, Vladislav
+1951         -> Abasolo, Roland T.
+3151         -> Abassi, Elizabeth
+1975         -> Abatantuono, Diego
+3166         -> Abate, Kristen
+1994         -> Abate, Massimo
+2009         -> Abatemarco, Tony
+2017         -> Abato, Paul
+2019         -> Abato, Paul Vito
+2023         -> Abattucci, Serge
+2042         -> Abay, Korhan
+2055         -> Abaya, Marc
+3194         -> Abayari, Anjanette
+2063         -> Abaydulov, Gali
+2074         -> Abaza, Ahmed
+2079         -> Abaza, Rushdy
+2086         -> Abazi, Refet
+2133         -> Abbad, Alex
+3214         -> Abbadie, Axelle
+2159         -> Abbar, Saber
+2162         -> Abbas (I)
+2163         -> Abbas (II)
+2170         -> Abbas, Abdullah
+2187         -> Abbas, Cassin
+2189         -> Abbas, Eduardo
+2200         -> Abbas, Gassan
+2207         -> Abbas, Hector
+2223         -> Abbas, Master
+3239         -> Abbas, Myriam
+2241         -> Abbas, Osama
+2282         -> Abbasi, Hamza
+2295         -> Abbasi, Saeed
+2299         -> Abbasi, Shamoon
+2309         -> Abbasov, Aladdin
+2314         -> Abbasov, Gyunduz
+3259         -> Abbass, Hiam
+2350         -> Abbate, Joe
+2368         -> Abbate, Tony
+2373         -> Abbati, Roberto
+2374         -> Abbati, Stefano
+3288         -> Abbatiello, Gabriella
+2386         -> Abbay, Peter
+2391         -> Abbe, Charles S.
+2427         -> Abbey, Edward
+2429         -> Abbey, Francis
+2431         -> Abbey, Graham
+3315         -> Abbey, May
+3366         -> Abbott, Annie (I)
+3376         -> Abbott, Bryn
+3394         -> Abbott, Deborah
+3395         -> Abbott, Diahnne
+3399         -> Abbott, Dorothy
+3418         -> Abbott, Gypsy
+3429         -> Abbott, Jane (I)
+3436         -> Abbott, Joan
+3447         -> Abbott, Kelsy
+3482         -> Abbott, Pamela
+3506         -> Abbott, Tierra
+3508         -> Abbott, Ursula
+3524         -> Abboud, Carol
+3564         -> Abd Elaziz, Donia
+3565         -> Abd Elhadi, Maisa
+3570         -> Abdala, Delphine
+3574         -> Abdalla, Catarina
+3578         -> Abdalla, Mika
+3598         -> Abdel Aziz, Aida
+3599         -> Abdel Aziz, Dalal
+3600         -> Abdel Aziz, Lobna (I)
+3602         -> Abdel Aziz, Yasmin
+3604         -> Abdel Ghafour, Riham
+3607         -> Abdel Hamid, Berlanty
+3612         -> Abdel Razek, Ghada
+3622         -> Abdel-Maksoud, Nora Rim
+3713         -> Abdoo, Rose
+3721         -> Abdou, Ragaa
+3749         -> Abdul, Paula (I)
+3797         -> Abdullah, Bruna
+3807         -> Abdullah, Hina
+3834         -> Abdullayeva, Gulsara
+3845         -> Abdulrahim, Fatima
+3887         -> Abe, Haruka (I)
+3888         -> Abe, Hijiri
+3900         -> Abe, Machi
+3904         -> Abe, Maria
+3926         -> Abe, Natsumi
+3943         -> Abe, Satoko
+3947         -> Abe, Sumiko
+3951         -> Abe, Tomori
+3961         -> Abe, Yuriko
+3962         -> Abear, Beverly Jean
+3968         -> Abebrese, Ama
+3976         -> Abecassis, Raymonde
+3977         -> Abecassis, Yaël
+4001         -> Abeille, Marion
+4018         -> Abel, Christa
+4021         -> Abel, Dominique (II)
+4027         -> Abel, Ilse
+4042         -> Abel, Mari

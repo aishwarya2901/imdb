@@ -4,7 +4,7 @@ package com.da.util;
 import java.util.ArrayList;
 import java.util.List;
 
-public class ActPerformer {
+public abstract class ActPerformer {
     private final String name;
     private List<Movie> actedIn;
 
@@ -28,6 +28,8 @@ public class ActPerformer {
     public List<Movie> getActedIn() {
         return actedIn;
     }
+
+    public abstract long getId();
 
     @Override
     public boolean equals(Object o) {

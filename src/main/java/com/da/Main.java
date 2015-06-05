@@ -4,10 +4,7 @@ import com.da.util.*;
 import org.javatuples.Pair;
 
 import java.io.*;
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 import java.util.concurrent.atomic.AtomicLong;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
@@ -51,10 +48,13 @@ public class Main {
 
         try (BufferedWriter writer = new BufferedWriter(new FileWriter(new File("final.txt")))) {
             for (ActPerformer a : all) {
+                final Set<Pair<ActPerformer, ActPerformer>> over = new HashSet<>();
+
                 for (Movie movie : a.getActedIn()) {
                     List<ActPerformer> ls = map.get(movie);
                     for (ActPerformer partner : ls) {
-                        if(!a.equals(partner)) {
+                        boolean recent = over.add(Pair.with(a, partner));
+                        if(!a.equals(partner) && recent) {
                             final double common = common(a, partner) * 1.0;
                             writer.write(a.getId() + ",    " + partner.getId() + ",    " + common / a.getActedIn().size());
                             writer.newLine();
@@ -98,7 +98,7 @@ public class Main {
         try(BufferedWriter w = new BufferedWriter(new FileWriter(new File("ids.txt")))){
             sorted.forEach(x -> {
                 try {
-                    w.write(x.getId()+"         -> "+x.getName());
+                    w.write(x.getId() + "         -> " + x.getName());
                     w.newLine();
                 } catch (IOException e) {
                     e.printStackTrace();

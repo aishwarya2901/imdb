@@ -6,10 +6,8 @@ import org.javatuples.Pair;
 import java.io.*;
 import java.util.*;
 import java.util.concurrent.atomic.AtomicLong;
-import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
-import static java.util.stream.Collectors.mapping;
 import static java.util.stream.Collectors.toList;
 
 
@@ -44,7 +42,13 @@ public class Main {
                 ls.add(act);
             });
         }
+
+        printAllMovies(map.keySet());
+
+
         System.out.println("Printed all movies");
+
+
 
         try (BufferedWriter writer = new BufferedWriter(new FileWriter(new File("final.txt")))) {
             for (ActPerformer a : all) {
@@ -63,6 +67,8 @@ public class Main {
                 }
             }
         }
+
+
     }
 
     private static int common(ActPerformer a1, ActPerformer a2){
@@ -79,8 +85,8 @@ public class Main {
 
 
 
-    private void printAllMovies(List<Movie> movies) throws IOException {
-        Stream<Movie> sorted = movies.stream().sorted();
+    private static void printAllMovies(Collection<Movie> movies) throws IOException {
+        Stream<Movie> sorted = movies.stream().sorted(((o1, o2) -> o1.getName().compareTo(o2.getName())));
         try(BufferedWriter w = new BufferedWriter(new FileWriter(new File("movies.txt")))){
             sorted.forEach(x -> {
                 try {
